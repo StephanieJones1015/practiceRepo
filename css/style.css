@@ -4,6 +4,42 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #c6b7b7; 
+    width: 60%;
+    margin: 20px auto;
+    background-color: #beb4b4; 
+    border-radius: 20px
+    
 
+}
+.header {
+    font-display: large;
+    background-color: rgb(169, 31, 100)
+    color: white;
+    
+}
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #58dead;
+    border-radius: 10px;
+}
+.article {
+    color:white
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #e33166;
+}
+.asdide {
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:#425bec;  
+}
+.footer {
+    color:white
+    background-color: #eb7941 ;
+    border-radius: 10px;
 }
